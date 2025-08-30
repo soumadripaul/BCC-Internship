@@ -7,6 +7,44 @@ body{
     font-family: Arial, sans-serif;
     margin: 12px;
     padding: 12px;
-    background-color: #b3acac;
-    
+    background-color: white;
+}
+.P1{
+    border-width:5px;
+    border-style: solid;
+    border-color: rgb(19, 19, 72);
+    padding: 8px;
+    background-color: white;
+    border-radius: 4px;
+}
+#P2{
+    border-width:5px;
+    border-style: solid;
+    border-color: rgb(19, 19, 72);
+    padding: 8px;
+    background-color: white;
+    border-radius: 4px;
+}
+#P3{
+    border-width:5px;
+    border-style: solid;
+    border-color: rgb(19, 19, 72);
+    padding: 8px;
+    background-color: white;
+    border-radius: 4px;
+}
+nav{
+    background-color: rgb(118, 118, 229);
+    color: white;
+    padding: 12px;
+    text-align: center;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 8px 12px;
+}
+nav a:hover{
+    background-color: white;
+    color: rgb(88, 88, 167);
 }
